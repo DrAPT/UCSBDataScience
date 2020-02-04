@@ -1,3 +1,3 @@
-# UCSBDataScience
+# Testing Repo
 
-This repo is deprecated.
+This repo can be used for testing
